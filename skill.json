@@ -1,0 +1,11 @@
+{
+  "name": "genpark-semantic-prompt-cache-key-normalizer-and-hit-predictor-skill",
+  "version": "1.0.0",
+  "description": "Scrubs volatile request UUIDs and timestamps from prompts to maximize deterministic prefix cache hit rates",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
